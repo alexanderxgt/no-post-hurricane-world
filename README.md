@@ -21,4 +21,5 @@ Our key findings suggest that there is no post hurricane world in Puerto Rico. 7
 We believe that the dynamics outlined in previous sections compound each other, and that unraveling a decades-long tangled web of problems requires closing the biggest wound first. Puerto Rico must fix its outdated, dirty, and inefficient power grid. After all, many of the struggles we documented trace back to the historic blackout that followed Maria’s arrival to Puerto Rico. 
 
 ## December 2024 Report (Draft):
+https://github.com/alexanderxgt/no-post-hurricane-world/blob/36046d83f495a85604e08b49dda08a974c516bbd/december_2024_report.pdf
 
